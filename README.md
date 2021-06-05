@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything (LOL)
 - 📫 How to reach me ...
 -                  - email - armohammedsaif@gmail.com 
--                   - twitter - https://twitter.com/Mohammed__Saif_ 
+-                  - twitter - https://twitter.com/Mohammed__Saif_ 
 
 
 <!---
