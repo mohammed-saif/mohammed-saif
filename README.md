@@ -16,7 +16,7 @@
 
 <!--<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/> -->
-</p> -->
+
 
 - 👋 Hi, I’m Mohammed-Saif
 
