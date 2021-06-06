@@ -19,14 +19,19 @@
 </p> -->
 
 - 👋 Hi, I’m Mohammed-Saif
+
 - 🔭 I’m currently working on App Development
+
 - 👀 I’m interested in robotics, IOT, game developing
+
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on App UI/UX Development, Robotics, IOt
-- 🤔 I’m looking for help with people's who are able to increase my knowledge
+
 - 💬 Ask me about Flutter,C,C++,Python,Dart,Java,Arduino
+
 - 📫 How to reach me: armohammedsaif@gmail.com 📧
+ 
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: 😅
 
 
