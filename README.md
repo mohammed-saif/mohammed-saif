@@ -64,8 +64,8 @@
 - 🌱 I’m currently learning CSE at CUSAT
 - 💞️ I’m looking to collaborate on everything (LOL)
 - 📫 How to reach me ...
--                   - email - armohammedsaif@gmail.com 
--                   - twitter - https://twitter.com/Mohammed__Saif_ 
+-                  - email - armohammedsaif@gmail.com 
+-                  - twitter - https://twitter.com/Mohammed__Saif_ 
 
  -->
 <!---
