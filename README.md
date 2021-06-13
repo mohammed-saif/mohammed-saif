@@ -64,9 +64,9 @@
 - 🌱 I’m currently learning CSE at CUSAT
 - 💞️ I’m looking to collaborate on everything (LOL)
 - 📫 How to reach me ...
--                  - email - armohammedsaif@gmail.com 
+-                   - email - armohammedsaif@gmail.com 
 -                  - twitter - https://twitter.com/Mohammed__Saif_ 
-
+ 
  -->
 <!---
 mohammed-saif/mohammed-saif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
