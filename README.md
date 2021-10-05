@@ -20,7 +20,7 @@
 
 - 👋 Hi, I’m Mohammed-Saif
 
-- 🔭 I’m currently working on App Development
+- 🔭 I’m currently working on Web Development
 
 - 👀 I’m interested in robotics, IOT, game developing
 
