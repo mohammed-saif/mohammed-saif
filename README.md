@@ -9,14 +9,14 @@ Welcome to my GitHub profile!🙃
 
 <h2 align="center">About Me </h2>
 
-<p align="center"> I'am Mohammed Saif, a 21 year old Software Developer, currently grduated  Bachelor's in Computer Science Engineering 🎓 From Cochin University of Science and Technology🏫. I'am passionate about Game Development and now learning Microsoft Full Stack Development. </p>
+<p align="center"> I'am Mohammed Saif, Game Developer, currently working as Junior Game Developer at Spearmint Games, and has grduated  Bachelor's in Computer Science Engineering 🎓 From Cochin University of Science and Technology🏫. I'am passionate about Game Development. </p>
 
 <p align="center"><strong>More:</strong></p>
 <div align="center">
  
-   🔭 I’m currently working on my Microsoft Full Stack.
+   🔭 I’m currently working on Game Development.
  
-   👯 I’m looking to collaborate on web development projects.
+   👯 I’m looking to collaborate on Game development projects.
  
    🤔 I’m looking for help with everything i don't know
  
